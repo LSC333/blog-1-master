@@ -1,0 +1,5 @@
+2020-03-09 10:26:22.693  INFO 1056 --- [restartedMain] com.lhy.blog.BlogApplication             : Starting BlogApplication on LSC with PID 1056 (E:\code\blog-1-master\java-blog\target\classes started by 26683 in E:\code\blog-1-master\java-blog)
+2020-03-09 10:26:22.698 DEBUG 1056 --- [restartedMain] com.lhy.blog.BlogApplication             : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-03-09 10:26:22.698  INFO 1056 --- [restartedMain] com.lhy.blog.BlogApplication             : The following profiles are active: pro
+2020-03-09 10:26:26.675  WARN 1056 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-03-09 10:26:27.396  INFO 1056 --- [restartedMain] com.lhy.blog.BlogApplication             : Started BlogApplication in 5.368 seconds (JVM running for 6.235)

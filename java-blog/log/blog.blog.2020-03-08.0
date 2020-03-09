@@ -1,0 +1,10 @@
+2020-03-08 16:39:52.429  INFO 14952 --- [main] com.lhy.blog.BlogApplicationTests        : Starting BlogApplicationTests on LSC with PID 14952 (started by 26683 in E:\code\blog-1-master\java-blog)
+2020-03-08 16:39:52.430 DEBUG 14952 --- [main] com.lhy.blog.BlogApplicationTests        : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-03-08 16:39:52.430  INFO 14952 --- [main] com.lhy.blog.BlogApplicationTests        : The following profiles are active: pro
+2020-03-08 16:39:56.987  WARN 14952 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-03-08 16:39:57.647  INFO 14952 --- [main] com.lhy.blog.BlogApplicationTests        : Started BlogApplicationTests in 5.706 seconds (JVM running for 6.886)
+2020-03-08 16:40:11.225  INFO 20032 --- [main] com.lhy.blog.BlogApplicationTests        : Starting BlogApplicationTests on LSC with PID 20032 (started by 26683 in E:\code\blog-1-master\java-blog)
+2020-03-08 16:40:11.226 DEBUG 20032 --- [main] com.lhy.blog.BlogApplicationTests        : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-03-08 16:40:11.227  INFO 20032 --- [main] com.lhy.blog.BlogApplicationTests        : The following profiles are active: pro
+2020-03-08 16:40:14.792  WARN 20032 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-03-08 16:40:15.487  INFO 20032 --- [main] com.lhy.blog.BlogApplicationTests        : Started BlogApplicationTests in 4.626 seconds (JVM running for 5.336)

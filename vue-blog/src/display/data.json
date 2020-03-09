@@ -1,0 +1,46 @@
+{
+  "musicList": [
+    {
+      "title": "Lord of Cinder",
+      "artist": "桜庭統",
+      "pic": "http://129.204.34.155/music/Lord_of_Cinder/Lord_of_Cinder.jpg",
+      "lrc": "http://129.204.34.155/music/Lord_of_Cinder/Lord_of_Cinder.nlyric",
+      "src": "http://129.204.34.155/music/Lord_of_Cinder/Lord_of_Cinder.mp3"
+    }
+  ],
+
+
+  "commentForm": {
+    "blog.id": "",
+    "parentComment.id": -1,
+    "adminComment": false,
+    "content": "",
+    "nickname": "",
+    "email": "",
+    "avatar": ""
+  },
+  "commentRules": {
+    "content": [
+      { "required": true, "message": "内容不能为空", "trigger": "blur" }
+    ],
+    "nickname": [
+      { "required": true, "message": "昵称不能为空", "trigger": "blur" }
+    ],
+    "email": [
+      { "required": true, "message": "邮箱不能为空", "trigger": "blur" },
+      { "type": "email", "message": "请输入正确的邮箱地址", "trigger": ["blur", "change"] }
+    ]
+  },
+
+
+  "avatar": [
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160427_CPyBR.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160504_MYKS3.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160547_FQcvE.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160618_ATMGm.thumb.700_0.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160645_23nWC.thumb.700_0.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160711_uU3Zy.thumb.700_0.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160739_8tNSP.jpeg",
+    "https://lhy-blog.oss-cn-hangzhou.aliyuncs.com/avatar/20170507160820_JuXzL.jpeg"
+  ]
+}
